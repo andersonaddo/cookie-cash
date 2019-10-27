@@ -8,6 +8,12 @@
   
 ![CookieCash logo](/github_media/Banner.png)
 
+Creators: 
+@andersonaddo
+@n-young
+@NicholasSpringer
+@petersli
+
 ## Inspiration
 
 For most kids, there are things that are good for them that they wouldn't do on their own -- i.e. taking a shower, eating veggies, doing homework. We wanted to make a system that helps parents motivate kids to be healthy and responsible, while also teaching them basic financial literacy and some important life lessons.
